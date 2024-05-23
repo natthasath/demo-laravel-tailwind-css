@@ -1,6 +1,6 @@
 # 🎉 DEMO Laravel Tailwind CSS
 
-Laravel is a PHP framework for web artisans with an elegant syntax. Tailwind CSS is a utility-first CSS framework for rapid UI development. Integrating Tailwind with Laravel allows for efficient, modern web design, leveraging Laravel's powerful backend and Tailwind's flexible, responsive front-end styles.
+Laravel is a PHP web framework designed for robust and scalable web applications. Tailwind CSS is a utility-first CSS framework for creating custom designs without writing CSS. Together, they enable developers to efficiently build responsive and visually appealing applications with clean code.
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
