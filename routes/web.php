@@ -16,3 +16,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::view('/tailwind', 'tailwind')->name('tailwind');
+Route::view('/flowbite', 'flowbite')->name('flowbite');
